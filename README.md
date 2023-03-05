@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### ¡Hola! 👋
 Soy un desarrollador Front-End apasionado por crear soluciones web innovadoras y atractivas. Siempre busco superar las expectativas de mis clientes y usuarios, utilizando tecnologías de punta para crear soluciones funcionales y atractivas.
 
